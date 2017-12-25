@@ -70,6 +70,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:text="Sign In"
+                android:onClick="quiz"
                 android:textStyle="bold" />
 
             <TextView
@@ -86,6 +87,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:text="Sign Up"
+                android:onClick="signUp"
                 android:textStyle="bold" />
 
         </LinearLayout>
